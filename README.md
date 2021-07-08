@@ -2,7 +2,7 @@
 
 基于faad2 实现aac转wav格式
 
-##Demo faad2只编译了arm64其它架构请自行编译
+Demo faad2只编译了arm64其它架构请自行编译
 
 
 
